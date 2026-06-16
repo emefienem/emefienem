@@ -8,7 +8,7 @@ I enjoy designing systems that solve real-world problems, from multi-role platfo
 ---
 
 ## 🚀 What I Do
-- Build scalable full-stack applications using Next.js, Node.js, TypeScript, and PostgreSQL  
+- Build scalable full-stack applications using Next.js, Python/Node.js, TypeScript, and PostgreSQL  
 - Design and implement real-time systems using WebSockets for live communication features  
 - Architect role-based applications (RBAC) for multi-user platforms such as students, admins, and staff  
 - Develop secure backend systems with JWT authentication, Redis caching, and Prisma ORM  
