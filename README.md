@@ -29,7 +29,7 @@ I enjoy designing systems that solve real-world problems, from multi-role platfo
 ## 🛠️ Tech Stack
 - Frontend: React.js • Next.js • TypeScript • Vue.js • Tailwind CSS • ShadCN
 - State Management: Zustand • Redux • React Query • RTK Query
-- Backend: Node.js • Express.js • PostgreSQL • Prisma
+- Backend: Python • Node.js • Express.js • PostgreSQL • Prisma
 - Tools: Git • VS Code • Postman • Docker  • Jest • Vitest • React Testing Library
   
 ---
