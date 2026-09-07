@@ -100,5 +100,5 @@ Docker · Git · GitHub Actions · Postman · Vitest · Jest • React Testing L
 ---
 
 ## 🎮 Outside Engineering
-When I'm not building software, I'm probably eating or playing video games.
+When I'm not building software, I'm probably eating, at the gym or playing video games.
 
