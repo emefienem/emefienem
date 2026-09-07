@@ -1,18 +1,58 @@
 # Hi there, I'm Michael Emefienem 👋
+> Software Engineer · Founder · Backend & Distributed Systems
 
 ## About Me
-I’m a Software Engineer from Nigeria with experience building scalable full-stack applications for enterprise and government-related systems. I specialize in the JavaScript ecosystem, with strong focus on backend systems, real-time applications, and scalable frontend architecture.
+I’m a software engineer and founder building EBINUM, a payment intelligence platform focused on understanding, explaining, and optimizing payment outcomes.
 
-I enjoy designing systems that solve real-world problems, from multi-role platforms to document management systems and nationwide digital portals.
+My engineering work sits primarily around backend systems, distributed systems, APIs, real-time applications, and financial infrastructure.
+
+I enjoy building systems where reliability, correctness, state management, and failure recovery actually matter.
 
 ---
 
-## 🚀 What I Do
-- Build scalable full-stack applications using Next.js, Python/Node.js, TypeScript, and PostgreSQL  
-- Design and implement real-time systems using WebSockets for live communication features  
-- Architect role-based applications (RBAC) for multi-user platforms such as students, admins, and staff  
-- Develop secure backend systems with JWT authentication, Redis caching, and Prisma ORM  
-- Translate complex business requirements into production-ready engineering solutions  
+## 🚀 What I'm Building
+EBINUM — Payment Intelligence
+
+I'm building EBINUM as an intelligent layer around payment infrastructure.
+
+The platform is designed to help merchants understand what happened during a payment, why it happened, and what can be done next.
+
+Current work includes:
+
+- Payment intents and transaction processing
+- Transaction intelligence
+- Heuristic risk scoring
+- Idempotent payment operations
+- Redis-based distributed locking
+- Transaction state management
+- Failure recovery
+- Refunds, disputes, and payouts
+- Configurable payment providers
+- Auditability and transaction visibility
+- Microservice-based backend architecture
+
+**Stack**: TypeScript · Node.js · PostgreSQL · Prisma · Redis · Docker · Kafka
+- 🔗 **[Live Demo](DEMO_URL)** — Explore the deployed application
+- 📖 **[Architecture]https://github.com/emefienem/ebinum-engineering** — System architecture and engineering decisions
+- 📝 **[Technical Write-ups]https://github.com/emefienem/ebinum-engineering** — Engineering deep dives
+---
+
+🧠 Engineering Interests
+I'm particularly interested in:
+
+- Distributed Systems
+- Backend Architecture
+- Payment & Financial Infrastructure
+- API Design
+- Reliability Engineering
+- Concurrency & Distributed Locking
+- Idempotency
+- State Machines
+- Real-Time Systems
+- Event-Driven Architecture
+- Caching & Performance
+- Observability & Failure Recovery
+- AI-powered Infrastructure
 
 ---
 
@@ -26,37 +66,39 @@ I enjoy designing systems that solve real-world problems, from multi-role platfo
 
 ---
 
-## 🛠️ Tech Stack
-- Frontend: React.js • Next.js • TypeScript • Vue.js • Tailwind CSS • ShadCN
-- State Management: Zustand • Redux • React Query • RTK Query
-- Backend: Python • Node.js • Express.js • PostgreSQL • Prisma
-- Tools: Git • VS Code • Postman • Docker  • Jest • Vitest • React Testing Library
+## 🛠️ Technologies
+**Languages & Runtime**
+TypeScript · JavaScript · Python · Node.js
+**Backend**
+Node.js · Express.js · PostgreSQL · Prisma · Redis · REST APIs
+**Frontend**
+React · Next.js · Vue.js · Redux · React Query · Tailwind CSS
+**Systems**
+Microservices · Distributed Systems · WebSockets · Caching · Idempotency · Distributed Locking · State Management
+**Infrastructure** & Tools
+Docker · Git · GitHub Actions · Postman · Vitest · Jest • React Testing Library
   
 ---
 
-## 🌟 Engineering Focus Areas
-- Full-Stack Web Development  
-- Real-Time Systems Architecture  
-- Authentication & Authorization (JWT, RBAC)  
-- API Design & Scalable Backend Systems  
-- State Management & Frontend Architecture  
-- Performance Optimization & Caching Strategies  
+## 📈 Currently
+- Building EBINUM
+- Deepening my work in distributed systems and financial infrastructure
+- Exploring AI applications in backend and payment systems
+- Open to strong early-stage engineering opportunities where I can own problems end to end
 
 ---
 
-## 🎯 Currently
-- Focused on building scalable backend-heavy systems and distributed applications  
-- Improving system design and advanced backend architecture skills  
-- Preparing for opportunities in top global engineering teams  
+## 📫 Connect
+**Email**: emefienemmichael@gmail.com
+
+**LinkedIn**: linkedin.com/in/emefienem
+
+**GitHub**: github.com/emefienem
+
+📍 Lagos, Nigeria
 
 ---
 
-## 📫 Let’s Connect
-- Email: emefienemmichael@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/emefienem
-- Location: Lagos, Nigeria 🇳🇬  
+## 🎮 Outside Engineering
+When I'm not building software, I'm probably eating or playing video games.
 
----
-
-## 💡 Fun Fact
-I love eating and playing video games
