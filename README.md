@@ -32,9 +32,9 @@ Current work includes:
 - Microservice-based backend architecture
 
 **Stack**: TypeScript · Node.js · PostgreSQL · Prisma · Redis · Docker · Kafka
-- 🔗 **[Live Demo]([DEMO_URL](https://demo-ebinum.vercel.app/))** — Explore the deployed application
-- 📖 **[Architecture]https://github.com/emefienem/ebinum-engineering** — System architecture and engineering decisions
-- 📝 **[Technical Write-ups]https://github.com/emefienem/ebinum-engineering** — Engineering deep dives
+- 🔗 **[Live Demo](https://demo-ebinum.vercel.app/)** — Explore the deployed application
+- 📖 **[Architecture](https://github.com/emefienem/ebinum-engineering)** — System architecture and engineering decisions
+- 📝 **[Technical Write-ups](https://github.com/emefienem/ebinum-engineering)** — Engineering deep dives
 ---
 
 🧠 Engineering Interests
